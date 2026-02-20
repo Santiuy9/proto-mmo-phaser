@@ -1,4 +1,4 @@
-import * as Phaser from "phaser";
+import Phaser from "../phaser.js";
 
 // CONFIGURACIÓN
 const INVENTORY_CONFIG = {

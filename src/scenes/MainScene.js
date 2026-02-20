@@ -1,4 +1,4 @@
-import * as Phaser from "phaser";
+import Phaser from "../phaser.js";
 
 import Animations from "../systems/Animations.js";
 import PlayerControllers from "../systems/PlayerControllers.js";

@@ -1,4 +1,4 @@
-import * as Phaser from "phaser";
+import Phaser from "../phaser.js";
 
 export default class Resources {
   constructor(scene) {
